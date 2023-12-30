@@ -1,11 +1,3 @@
-###
-### Author: Randall Candaso
-### Course: CSc 110
-### Description: This program will recieve an image containing a greenscreen
-###              background along with a filler background in order to combine
-###              the two, via eliminating the greenscreen.
-###
-
 def get_image_dimensions_string(file_name):
     '''
     Given the file name for a valid PPM file, this function will return the
